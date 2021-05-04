@@ -1,0 +1,15 @@
+[
+    {
+        "caption": "Searchfox",
+        "children": [
+          {
+              "caption": "Search selection...",
+              "command": "searchfox_selection"
+          },
+          {
+              "caption": "Open current file...",
+              "command": "searchfox_path"
+          }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Searchfox: Search mozilla-central",
+        "command": "searchfox_query"
+    },
+    {
+        "caption": "Searchfox: Search selection",
+        "command": "searchfox_selection"
+    },
+    {
+        "caption": "Searchfox: Open current file",
+        "command": "searchfox_path"
+    }
+]
